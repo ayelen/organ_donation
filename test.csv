@@ -1,0 +1,25 @@
+﻿"provincia_id","provincia_descripcion","manifestacion_afirmativa_cantidad","manifestacion_afirmativa_porcentaje","manifestacion_negativa","manifestacion_negativa_porcentaje"
+"02","Ciudad Autóbnoma de Buenos Aires",404019,13.14%,59524,5.55%
+"38","Jujuy",43249,1.41%,20813,1.94%
+"42","La Pampa",23911,0.78%,9650,0.90%
+"46","La Rioja",10208,0.33%,6396,0.60%
+"50","Mendoza",81482,2.65%,66327,6.19%
+"90","Misiones",36752,1.20%,22331,2.08%
+"58","Neuquen",57533,1.87%,22688,2.12%
+"62","Rio Negro",71953,2.34%,32302,3.01%
+"66","Salta",98973,3.22%,70304,6.56%
+"30","San Juan",39606,1.29%,3397,0.32%
+"74","San Luis",20972,0.68%,9362,0.87%
+"06","Buenos Aires",1296131,42.17%,257550,24.03%
+"78","Santa Cruz",41624,1.35%,31027,2.89%
+"86","Santa Fe",245390,7.98%,90308,8.43%
+"86","Santiago del Estero",16197,0.53%,16981,1.58%
+"94","Tierra del Fuego",27455,0.89%,8118,0.76%
+"54","Tucuman",38188,1.24%,15257,1.42%
+"10","Catamarca",29134,0.95%,16875,1.57%
+"22","Chaco",75492,2.46%,61331,5.72%
+"26","Chubut",58133,1.89%,16988,1.58%
+"14","Cordoba",245882,8.00%,169927,15.85%
+"18","Corrientes",52074,1.69%,33493,3.12%
+"70","Entre Rios",41341,1.35%,12492,1.17%
+"34","Formosa",17887,0.58%,18460,1.72%
